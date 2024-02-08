@@ -17,6 +17,6 @@ git clone https://github.com/LZHMS/PUMC.git
     + This folder stores all images our team had done. Considering the size of notebook file and transition efficiency, I cleared all results shall be shown in notebook. Instead, I saved these results under this folder which explained the model and algorithm very well. 
 
 ## Contributors
-+ [**Zhihao Li**](https://lzhms.github.io/)
-+ Pai Lin
-+ Kaida Huang
++ [Zhihao Li](https://lzhms.github.io/)
++ [Changrong You](https://cryoushiwo.github.io/)
++ Zhihan Liu
